@@ -1,0 +1,6 @@
+[submodule "kree/libs/connect"]
+	path = kree/libs/connect
+	url = git://github.com/senchalabs/connect.git
+[submodule "kree/libs/mongoose"]
+	path = kree/libs/mongoose
+	url = git@github.com:LearnBoost/mongoose.git
