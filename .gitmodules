@@ -4,3 +4,6 @@
 [submodule "kree/libs/mongoose"]
 	path = kree/libs/mongoose
 	url = git@github.com:LearnBoost/mongoose.git
+[submodule "kree/libs/sly"]
+	path = kree/libs/sly
+	url = git@github.com:robinduckett/sly.git
