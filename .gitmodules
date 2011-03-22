@@ -7,3 +7,6 @@
 [submodule "kree/libs/sly"]
 	path = kree/libs/sly
 	url = git@github.com:robinduckett/sly.git
+[submodule "kree/libs/mysql"]
+	path = kree/libs/mysql
+	url = git@github.com:felixge/node-mysql.git
